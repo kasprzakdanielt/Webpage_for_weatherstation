@@ -84,7 +84,7 @@ class DevicesModel(object):
         #print dataframe_avg.
         wartosci = dataframe_avg.tolist()
         daty = dataframe_avg.index.get_values()
-        print type(daty)
-        print wartosci
-        print daty
+        print (type(daty))
+        print (wartosci)
+        print (daty)
         return daty, wartosci

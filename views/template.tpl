@@ -33,6 +33,8 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark" id="uppernavbar">
         <a class="navbar-brand" href="#">
             <img src="/static/logo.png" alt="Logo" style="width:40px;" class="rounded-circle">
+            <img src="/static/bundles/romet.jpg" alt="Logo" style="width:40px;" class="rounded-circle">
+            <img src="/static/bundles/gromek.png" alt="Logo" style="width:40px;" class="rounded-circle">
         </a>
     </nav>
     <br/>
